@@ -1,0 +1,53 @@
+{
+  "isLoading": false,
+  "isEmpty": false,
+  "isError": false,
+  "shoppingBag": {
+    "totalItemCount": 1,
+    "totalItemAmount": 0
+  },
+  "marketingMessageInfo": {
+    "originCountryCode": "US",
+    "geoLocation": "georegion=277,country_code=US,region_code=OH,city=CLEVELAND,dma=510,pmsa=1680,msa=1692,areacode=216+440,county=CUYAHOGA,fips=39035,lat=41.4995,long=-81.6959,timezone=EST,zip=37932+44108-44115+44118-44121+44124-44130+44134-44135+44143-44144+44181+44188+44190-44195+44197-44199,continent=NA,throughput=vhigh,bw=5000,asnum=14131,network_type=dsl,location_id=0",
+    "isCanadaMarketCandidate": "false",
+    "isEuMarketCandidate": "false",
+    "canadaMarketEmailRegistrationUrl": "https://example.p.delivery.net/m/p/gap/can/jemail/onjapiprocess.asp",
+    "euMarketEmailRegistrationUrl": "https://foo.bar"
+  },
+  "userContext": {
+    "isAnonymousUser": "true",
+    "isRecognizedUser": "false",
+    "isLoggedInUser": "false",
+    "globalShippingCountryCode": "us",
+    "globalShippingCountryName": "United States",
+    "localeCode": "en_US",
+    "clickStream": {
+      "sitesVisited": "3",
+      "viewAll": "",
+      "isFilteredTabActive": "false",
+      "searchFacetSelectionsMap": null
+    },
+    "viewDate": "2018-12-06T10:30:09.942-05:00",
+    "reportingAccount": "exampleproduction,example2staging",
+    "campaignTrackingId": "",
+    "preferredLocaleCode": "",
+    "guest": "false",
+    "isEligibleForQuickCheckout": "false"
+  },
+  "customerAttributes": {},
+  "featureSelections": null,
+  "isLoggedInUser": false,
+  "isRecognizedUser": false,
+  "internationalShipping": {
+    "countryName": "",
+    "countryFlagURL": "us.gif"
+  },
+  "virtualValueInterrupterStatus": {
+    "bouncebackActive": false,
+    "rewardsActive": false,
+    "bouncebackText": "Super Cash",
+    "bothBounceBackAndRewardsActive": false,
+    "totalRewardValue": 0
+  },
+  "virtualValueMessage": ""
+}

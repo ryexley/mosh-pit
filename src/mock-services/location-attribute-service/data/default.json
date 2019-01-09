@@ -1,0 +1,284 @@
+{
+  "stores": [
+    {
+      "hours": [
+        "Mon: 9:00 AM - 9:00 PM",
+        "Tue: 9:00 AM - 9:00 PM",
+        "Wed: 9:00 AM - 9:00 PM",
+        "Thu: 9:00 AM - 9:00 PM",
+        "Fri: 9:00 AM - 10:00 PM",
+        "Sat: 9:00 AM - 10:00 PM",
+        "Sun: 11:00 AM - 7:00 PM"
+      ],
+      "address": {
+        "lines": [
+          "11028 PARKSIDE DR"
+        ],
+        "city": "KNOXVILLE",
+        "countryCode": "US",
+        "postalCode": "37922-1952",
+        "stateProvince": "TN"
+      },
+      "phoneNumber": "(865) 675-1714",
+      "distance": "2.97",
+      "latitude": "35.900295",
+      "timeZone": "America/New_York",
+      "storeName": "TURKEY CREEK S/C",
+      "id": "6444",
+      "specialHours": [],
+      "longitude": "-84.1499778"
+    },
+    {
+      "hours": [
+        "Mon: 9:00 AM - 9:00 PM",
+        "Tue: 9:00 AM - 9:00 PM",
+        "Wed: 9:00 AM - 9:00 PM",
+        "Thu: 9:00 AM - 9:00 PM",
+        "Fri: 9:00 AM - 10:00 PM",
+        "Sat: 9:00 AM - 10:00 PM",
+        "Sun: 11:00 AM - 7:00 PM"
+      ],
+      "address": {
+        "lines": [
+          "218 MORRELL RD"
+        ],
+        "city": "KNOXVILLE",
+        "countryCode": "US",
+        "postalCode": "37919",
+        "stateProvince": "TN"
+      },
+      "phoneNumber": "(865) 690-8522",
+      "distance": "9.25",
+      "latitude": "35.9245882",
+      "timeZone": "America/New_York",
+      "storeName": "CENTRE AT DEANE HILL",
+      "id": "5780",
+      "specialHours": [],
+      "longitude": "-84.0336981"
+    },
+    {
+      "hours": [
+        "Mon: 10:00 AM - 9:00 PM",
+        "Tue: 10:00 AM - 9:00 PM",
+        "Wed: 10:00 AM - 9:00 PM",
+        "Thu: 10:00 AM - 9:00 PM",
+        "Fri: 10:00 AM - 9:00 PM",
+        "Sat: 9:00 AM - 9:00 PM",
+        "Sun: 11:00 AM - 7:00 PM"
+      ],
+      "address": {
+        "lines": [
+          "125 HAMILTON CROSSING DRIVE"
+        ],
+        "city": "ALCOA",
+        "countryCode": "US",
+        "postalCode": "37701",
+        "stateProvince": "TN"
+      },
+      "phoneNumber": "(865) 379-1295",
+      "distance": "15.69",
+      "latitude": "35.7699977",
+      "timeZone": "America/New_York",
+      "storeName": "HAMILTON CROSSING",
+      "id": "5068",
+      "specialHours": [],
+      "longitude": "-83.985472"
+    },
+    {
+      "hours": [
+        "Mon: 9:00 AM - 9:00 PM",
+        "Tue: 9:00 AM - 9:00 PM",
+        "Wed: 9:00 AM - 9:00 PM",
+        "Thu: 9:00 AM - 9:00 PM",
+        "Fri: 9:00 AM - 9:00 PM",
+        "Sat: 9:00 AM - 9:00 PM",
+        "Sun: 11:00 AM - 7:00 PM"
+      ],
+      "address": {
+        "lines": [
+          "5445 WASHINGTON PIKE"
+        ],
+        "city": "KNOXVILLE",
+        "countryCode": "US",
+        "postalCode": "37918",
+        "stateProvince": "TN"
+      },
+      "phoneNumber": "(865) 521-3928",
+      "distance": "19.36",
+      "latitude": "36.0377628",
+      "timeZone": "America/New_York",
+      "storeName": "HARVEST PARK CENTER",
+      "id": "5022",
+      "specialHours": [],
+      "longitude": "-83.8861771"
+    },
+    {
+      "hours": [
+        "Mon: 9:00 AM - 8:00 PM",
+        "Tue: 9:00 AM - 8:00 PM",
+        "Wed: 9:00 AM - 8:00 PM",
+        "Thu: 9:00 AM - 8:00 PM",
+        "Fri: 9:00 AM - 9:00 PM",
+        "Sat: 9:00 AM - 9:00 PM",
+        "Sun: 9:00 AM - 8:00 PM"
+      ],
+      "address": {
+        "lines": [
+          "1645 PARKWAY"
+        ],
+        "city": "SEVIERVILLE",
+        "countryCode": "US",
+        "postalCode": "37862",
+        "stateProvince": "TN"
+      },
+      "phoneNumber": "(865) 908-0946",
+      "distance": "35.63",
+      "latitude": "35.8318309",
+      "timeZone": "America/New_York",
+      "storeName": "FIVE OAKS",
+      "id": "6424",
+      "specialHours": [],
+      "longitude": "-83.5711084"
+    },
+    {
+      "hours": [
+        "Mon: 9:00 AM - 9:00 PM",
+        "Tue: 9:00 AM - 9:00 PM",
+        "Wed: 9:00 AM - 9:00 PM",
+        "Thu: 9:00 AM - 9:00 PM",
+        "Fri: 9:00 AM - 9:00 PM",
+        "Sat: 9:00 AM - 9:00 PM",
+        "Sun: 11:00 AM - 7:00 PM"
+      ],
+      "address": {
+        "lines": [
+          "377 W JACKSON STREET"
+        ],
+        "city": "COOKEVILLE",
+        "countryCode": "US",
+        "postalCode": "38501",
+        "stateProvince": "TN"
+      },
+      "phoneNumber": "(931) 526-3310",
+      "distance": "75.54",
+      "latitude": "36.1573148",
+      "timeZone": "America/Chicago",
+      "storeName": "JACKSON PLZ (3331)",
+      "id": "3331",
+      "specialHours": [],
+      "longitude": "-85.51784500000001"
+    },
+    {
+      "hours": [
+        "Mon: 9:00 AM - 9:00 PM",
+        "Tue: 9:00 AM - 9:00 PM",
+        "Wed: 9:00 AM - 9:00 PM",
+        "Thu: 9:00 AM - 9:00 PM",
+        "Fri: 9:00 AM - 9:00 PM",
+        "Sat: 9:00 AM - 9:00 PM",
+        "Sun: 11:00 AM - 7:00 PM"
+      ],
+      "address": {
+        "lines": [
+          "585 NORTHGATE MALL"
+        ],
+        "city": "CHATTANOOGA",
+        "countryCode": "US",
+        "postalCode": "37415",
+        "stateProvince": "TN"
+      },
+      "phoneNumber": "(423) 870-7707",
+      "distance": "79.94",
+      "latitude": "35.1313278",
+      "timeZone": "America/New_York",
+      "storeName": "NORTHGATE MALL",
+      "id": "4232",
+      "specialHours": [],
+      "longitude": "-85.24200739999999"
+    },
+    {
+      "hours": [
+        "Mon: 9:00 AM - 9:00 PM",
+        "Tue: 9:00 AM - 9:00 PM",
+        "Wed: 9:00 AM - 9:00 PM",
+        "Thu: 9:00 AM - 9:00 PM",
+        "Fri: 9:00 AM - 9:00 PM",
+        "Sat: 9:00 AM - 9:00 PM",
+        "Sun: 11:00 AM - 7:00 PM"
+      ],
+      "address": {
+        "lines": [
+          "2220 Hamilton Place Blvd"
+        ],
+        "city": "CHATTANOOGA",
+        "countryCode": "US",
+        "postalCode": "37421",
+        "stateProvince": "TN"
+      },
+      "phoneNumber": "(423) 894-4742",
+      "distance": "81.05",
+      "latitude": "35.0394252",
+      "timeZone": "America/New_York",
+      "storeName": "TERRACE (THE)",
+      "id": "5791",
+      "specialHours": [],
+      "longitude": "-85.1542138"
+    },
+    {
+      "hours": [
+        "Mon: 10:00 AM - 9:00 PM",
+        "Tue: 10:00 AM - 9:00 PM",
+        "Wed: 10:00 AM - 9:00 PM",
+        "Thu: 10:00 AM - 9:00 PM",
+        "Fri: 10:00 AM - 9:00 PM",
+        "Sat: 10:00 AM - 9:00 PM",
+        "Sun: 12:00 PM - 6:00 PM"
+      ],
+      "address": {
+        "lines": [
+          "3 S TUNNEL ROAD"
+        ],
+        "city": "ASHEVILLE",
+        "countryCode": "US",
+        "postalCode": "28805",
+        "stateProvince": "NC"
+      },
+      "phoneNumber": "(828) 298-3150",
+      "distance": "96.60",
+      "latitude": "35.580897",
+      "timeZone": "America/New_York",
+      "storeName": "ASHEVILLE MALL",
+      "id": "6506",
+      "specialHours": [],
+      "longitude": "-82.52666870000002"
+    },
+    {
+      "hours": [
+        "Mon: 9:00 AM - 9:00 PM",
+        "Tue: 9:00 AM - 9:00 PM",
+        "Wed: 9:00 AM - 9:00 PM",
+        "Thu: 9:00 AM - 9:00 PM",
+        "Fri: 9:00 AM - 9:00 PM",
+        "Sat: 9:00 AM - 9:00 PM",
+        "Sun: 11:00 AM - 7:00 PM"
+      ],
+      "address": {
+        "lines": [
+          "2 MCKENNA ROAD"
+        ],
+        "city": "ARDEN",
+        "countryCode": "US",
+        "postalCode": "28704",
+        "stateProvince": "NC"
+      },
+      "phoneNumber": "(828) 687-1042",
+      "distance": "98.87",
+      "latitude": "35.4463837",
+      "timeZone": "America/New_York",
+      "storeName": "SOUTHRIDGE - NC",
+      "id": "3506",
+      "specialHours": [],
+      "longitude": "-82.53510849999999"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mosh-pit",
+  "host": {
+    "port": 8001,
+    "name": "localhost",
+    "proxyToPort": 8000
+  },
+  "logging": {
+    "level": "debug"
+  }
+}
